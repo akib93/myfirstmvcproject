@@ -1,0 +1,73 @@
+﻿@*@model IEnumerable<OnlineShopingManagment.Models.Product>*@
+
+@model PagedList.IPagedList<OnlineShopingManagment.Models.Product>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <strong>Success!</strong> 
+    </div>
+}
+@using (Html.BeginForm("Index", "Home", FormMethod.Get))
+{
+    <p>
+        @*===== For Filtering ==== *@
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+
+}
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="row">
+    <div class="col-lg-10 col-md-10 col-sm-10">
+        @if (TempData["total"] == null)
+        {
+            <h3>
+                Total Bill:0 Taka
+            </h3>
+        }
+        else
+        {
+            <h3>Total Bill:@TempData["total"] Taka</h3>
+        }
+    </div>
+    <div class="col-lg-2 col-md-2 col-sm-2">
+
+        <h3 style="color:#808080;font-family:Arial, Helvetica, sans-serif;text-align:center"> <span class="btn btn-info">@Html.ActionLink("Check Out", "CheckOut", "Home")</span></h3>
+    </div>
+</div>
+
+
+
+<th>
+    @Html.ActionLink("Product Name", "Index", new { sortOrder = ViewBag.NameSortParm })  @* ===== For Sorting by Name ==== *@
+</th>
+
+
+<div class="row" style="margin-bottom:100px;background-color:antiquewhite">
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            string url2 = item.PicUrl;
+            <div class="col-lg-4 col-md-4" style="height:200px;margin-top:100px">
+                <img class="img img-responsive" src="~/Images/@url2" style="height:100%;width:100%;border-radius:50px 50px 50px 50px" />
+                <h3 style="color:#808080; font-family:Arial, Helvetica, sans-serif;text-align:center">@item.ProductName <small>@item.Price Rs</small></h3>
+                <h4 style="text-align:center">
+                    <a class="btn btn-success btn-sm" href="@Url.Action("AddtoCard", new { id = @item.ProductID })"><i style="font-size:24px" class="fa">&#xf07a;</i>Add to Cart</a>
+
+                </h4>
+            </div>
+        }
+    }
+</div>
+<br /> @* ==== For Paging ====*@
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

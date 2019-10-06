@@ -1,0 +1,103 @@
+﻿@model OnlineShopingManagment.ViewModels.ShoppingCartViewModel
+
+@{
+    ViewBag.Title = "Shopping Cart";
+}
+<script src="~/Scripts/jquery-3.3.1.min.js" type="text/javascript">
+    
+</script>
+<script type="text/javascript">
+    $(function () {
+        $(".RemoveLink").click(function () {
+            var recordToDelete = $(this).attr("data-id");
+            if (recordToDelete != "") {
+                $.post("/ShoppingCart/RemoveFromCart", { "id": recordToDelete },
+                    function (data) {
+                        if (data.ItemCount == 0) {
+                            $('#row-' + data.DeleteId).fadeOut('slow');
+                        }
+                        else {
+                            $('#item-count-' + data.DeleteId).text(data.ItemCount);
+                        }
+                        $('#cart-total').text(data.CartTotal);
+                        $('#update-message').text(data.Message);
+                        $('#cart-status').text('Cart(' + data.CartCount + ')');
+                    });
+            }
+        });
+    });
+</script>
+  
+<h3>
+    <em>Review</em> your cart:
+</h3>
+
+<p class="button">
+    @Html.ActionLink("Checkout>>","AddressAndPayment","Checkout")
+</p>
+<div id="update-message">
+
+</div>
+<table>
+    <tr>
+        <th>
+            Item Name
+        </th>
+        <th>
+            Price (each)
+        </th>
+        <th>
+            Quantity
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.CartItems)
+    {
+        <tr id="row-@item.RecordId">
+            <td>
+                @Html.ActionLink(item.Productname,"Details","Product",new { id=item.ProductId},null)
+            </td>
+            <td>
+                @item.price
+            </td>
+            <td id="item-count-@item.RecordId">
+                @item.Count
+            </td>
+            <td>
+                <a href="#" class="RemoveLink" data-id="@item.RecordId">
+                    Remove From Cart
+                </a>
+            </td>
+        </tr>
+    }
+
+
+</table>
+
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CartTotal)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CartTotal)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ShoppingCartViewModelID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ShoppingCartViewModelID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ShoppingCartViewModelID })
+        </td>
+    </tr>
+}
+
+</table>

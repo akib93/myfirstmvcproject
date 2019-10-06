@@ -1,0 +1,57 @@
+﻿
+@model OnlineShopingManagment.Models.Product
+
+
+@{
+    ViewBag.Title = "AddtoCard";
+}
+
+
+
+
+@using (Html.BeginForm())
+{
+    <div class="container">
+
+        <div class="row">
+
+
+            @{
+                string id3 = Request.Url.Segments.Last();
+                string url2 = Model.PicUrl;
+                <div style="float:left; display:inline-block;height:100%; border-top:2px solid white;">
+                    <a href="#">
+                        <img src="~/Images/@url2" height="300" width="400" />
+                    </a>
+                </div>
+            }
+
+
+
+
+
+            <div class="col-lg-8 col-md-8 col-sm-8">
+                <h1>Product Name : @Model.ProductName</h1>
+                <h2>Price : @Model.Price Taka</h2>
+                <h6>Details : @Model.Details</h6>
+                
+                <input type="number" name="qty" value="1" id="qty" min="1" max="10"/>
+                <input type="submit" value="Submit" class="btn btn-default" style="background-color:forestgreen"/>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+}

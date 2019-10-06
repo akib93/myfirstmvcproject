@@ -1,0 +1,694 @@
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll.config
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Owin.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\WebGrease.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CopyComplete
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.dll
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations._as.resources
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.kjjj.resources
+C:\Users\HP\Desktop\Project\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csprojAssemblyReference.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll.config
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.pdb
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe.config
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.rsp
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe.config
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.rsp
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.AppContext.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Console.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Compression.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Claims.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.ValueTuple.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe.config
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.rsp
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Owin.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\WebGrease.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.pdb
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations._as.resources
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.kjjj.resources
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.GenerateResource.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CopyComplete
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll.config
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Owin.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\WebGrease.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations._as.resources
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.kjjj.resources
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CopyComplete
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.Mvc.dll
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.xml
+C:\Users\HP\Desktop\backup\New folder1\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.Mvc.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll.config
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.pdb
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe.config
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.rsp
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe.config
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.rsp
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Managed.Core.targets
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.AppContext.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Collections.Immutable.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Console.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Compression.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Reflection.Metadata.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.AccessControl.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Claims.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Principal.Windows.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.ValueTuple.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XmlDocument.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe.config
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.rsp
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe.config
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Web.Infrastructure.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Owin.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.Mvc.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\WebGrease.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.Mvc.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.pdb
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations._as.resources
+E:\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.kjjj.resources
+E:\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.GenerateResource.cache
+E:\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CoreCompileInputs.cache
+E:\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CopyComplete
+E:\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.dll
+E:\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations._as.resources
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.kjjj.resources
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll.config
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Owin.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.Mvc.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\WebGrease.dll
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.Mvc.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CopyComplete
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.trrrq.resources
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.trrrql.resources
+C:\Users\HP\Desktop\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll.config
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Owin.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.Mvc.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\WebGrease.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\PagedList.Mvc.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations._as.resources
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.kjjj.resources
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.trrrq.resources
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.trrrql.resources
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csproj.CopyComplete
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.dll
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.pdb
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.bbb.resources
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.looo.resources
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.dss.resources
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.opo.resources
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\backup\CartCompleteand Database\OnlineShopingManagment\OnlineShopingManagment\obj\Debug\OnlineShopingManagment.Migrations.sqqqqqq.resources

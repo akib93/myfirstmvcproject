@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "CheckOut";
+}
+
+<h2 style="text-align:center;color:brown">CheckOut</h2>
+
+
+
+@if (TempData["Cart"] != null)
+{
+    <table class="table table-responsive">
+        <thead style="background-color:forestgreen">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quentity</th>
+                <th>Bill</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in TempData["Cart"] as List<OnlineShopingManagment.Models.Cart>)
+            {
+                <tr>
+                    <td>@item.ProductId</td>
+                    <td>@item.Productname</td>
+                    <td>@item.price</td>
+                    <td>@item.qty</td>
+                    <td>@item.bill</td>
+                    <td >
+                        <a class="btn btn-danger btn-sm" href="@Url.Action("remove",new { name=item.Productname})" >&#10008;</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td colspan="4"></td>
+                <td>@TempData["total"]</td>
+            </tr>
+        </tfoot>
+    </table>
+
+
+
+}
+else
+{
+    <h2 style="color:red"> Cart is empty</h2>
+
+    @Html.ActionLink("go Back", "Index", "Home")
+}
+
+@if (TempData["Cart"] != null)
+{
+    using (Html.BeginForm())
+    {
+        <input type="submit" value="Shop Now" class="btn btn-primary" />
+       
+    }
+}
+
+
+
